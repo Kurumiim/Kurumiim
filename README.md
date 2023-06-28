@@ -7,11 +7,11 @@
     <br>
     <br>
     <h1 align="center">Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="java-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="springboot-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="postgresql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="docker-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
+    <img align="center" height="30" width="40" alt="linux-icon" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    </div>
     <br>
     <br>
