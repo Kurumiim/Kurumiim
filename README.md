@@ -7,7 +7,7 @@
     <br>
     <br>
     <h1 align="center">Tecnologias</h1>
-    <img align="center" height="60" width="80" alt="java-icon"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg](https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="java-icon"  src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
     <img align="center" height="60" width="80" alt="springboot-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
     <img align="center" height="60" width="80" alt="postgresql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     <img align="center" height="60" width="80" alt="docker-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
