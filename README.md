@@ -5,7 +5,6 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <br>
-    <br>
     <h1 align="center">Tecnologias</h1>
     <img align="center" height="60" width="80" alt="Csharp-icon"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
     <img align="center" height="60" width="80" alt="dot-net-icon" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
