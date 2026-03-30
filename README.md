@@ -1,4 +1,8 @@
-## Seja bem vindo(a)!
+## Seja bem vindo(a)! Profissional formado em Engenharia de Software, com experiência prática em
+suporte técnico, administração de banco de dados, infraestrutura de TI e
+desenvolvimento de dashboards. Busco contribuir com a estabilidade e
+eficiência dos sistemas e equipamentos da empresa, garantindo suporte ágil e
+melhoria contínua dos processos tecnológicos
 
 
 <div  align="center"> 
