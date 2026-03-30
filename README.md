@@ -7,9 +7,9 @@
     <br>
     <br>
     <h1 align="center">Tecnologias</h1>
-    <img align="center" height="60" width="80" alt="java-icon"  src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
-    <img align="center" height="60" width="80" alt="springboot-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-    <img align="center" height="60" width="80" alt="postgresql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="center" height="60" width="80" alt="Csharp-icon"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="60" width="80" alt="dot-net-icon" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="60" width="80" alt="docker-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
     <img align="center" height="60" width="80" alt="linux-icon" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
    </div>
