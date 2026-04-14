@@ -14,7 +14,7 @@ Seja bem-vindo! Profissional em transição para desenvolvimento backend com foc
   <img height="60" width="80" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
   <!-- Backend -->
-  <img height="60" width="80" alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+  <img height="60" width="80" alt="fastapi" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg">
 
   <!-- Automation -->
   <img height="60" width="80" alt="selenium" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
