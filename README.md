@@ -1,8 +1,5 @@
-## Seja bem vindo(a)! Profissional formado em Engenharia de Software, com experiência prática em
-suporte técnico, administração de banco de dados, infraestrutura de TI e
-desenvolvimento de dashboards. Busco contribuir com a estabilidade e
-eficiência dos sistemas e equipamentos da empresa, garantindo suporte ágil e
-melhoria contínua dos processos tecnológicos
+##
+Seja bem-vindo! Profissional em transição para desenvolvimento backend com foco em Python, automação de processos e inteligência artificial. Tenho experiência prática com suporte técnico, banco de dados e infraestrutura de TI, e atualmente busco evoluir na criação de soluções automatizadas, APIs e sistemas escaláveis.
 
 
 <div  align="center"> 
@@ -10,11 +7,12 @@ melhoria contínua dos processos tecnológicos
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <br>
     <h1 align="center">Tecnologias</h1>
-    <img align="center" height="60" width="80" alt="Csharp-icon"  src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="60" width="80" alt="dot-net-icon" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
-    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="Csharp-icon"  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" height="60" width="80" alt="docker-icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
     <img align="center" height="60" width="80" alt="linux-icon" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
    </div>
     <br>
     <br>
