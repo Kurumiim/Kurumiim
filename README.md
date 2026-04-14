@@ -12,7 +12,7 @@ Seja bem-vindo! Profissional em transição para desenvolvimento backend com foc
     <img align="center" height="60" width="80" alt="linux-icon" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img align="center" height="60" width="80" alt="mysql-icon" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg">
    </div>
     <br>
     <br>
